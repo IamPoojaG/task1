@@ -1,0 +1,5 @@
+.home {
+  display: flex;
+  padding: 20px;
+  column-gap:30px;
+}
